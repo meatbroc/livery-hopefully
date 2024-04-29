@@ -13,20 +13,6 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/KTYA359.png"
                     ]
-                },
-                {
-                    "name": "Great British Air",
-                    "texture": [
-                        "https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/GBA35.png"
-                    ]
-                },
-                {
-                    "name": "Air Hanada",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/HAN359N.png"]
-                },
-                {
-                    "name": "Lightning Airways",
-                    "texture": ["https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/liveries/LAYA350.png"]
                 }
             ]
         }

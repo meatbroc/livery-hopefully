@@ -50,7 +50,7 @@
         //Load liveries
 
 
-        await fetch("https://raw.githubusercontent.com/Sunrise-6/Kittyo-Group-Livery-Selector/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
+        await fetch("https://raw.githubusercontent.com/meatbroc/livery-hopefully/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
 
         //remove original buttons
 

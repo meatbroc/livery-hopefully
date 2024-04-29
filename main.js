@@ -53,7 +53,7 @@ async function init(){
     //Load liveries
 
 
-    await fetch("https://raw.githubusercontent.com/meatbroc/livery-hopefully/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
+    await fetch("https://raw.githubusercontent.com/meatbroc/livery-hopefully/main/livery.json?token=GHSAT0AAAAAACRTK6DPL3IJAS4WBVCI66J4ZRPAIWA").then(res => res.json()).then(data => liveryobj = data)
 
     //remove original buttons
 

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GeoFS Livery Selector
+// @name         Livery Tester
 // @namespace    https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector/tree/main
 // @version      v2.0.0
 // @description  Livery Handler for Kittyo Group (and companies in collaboration with)

@@ -11,7 +11,7 @@
 // @grant        none
 // ==/UserScript==
 
-const githubRepo = 'https://raw.githubusercontent.com/meatbroc/livery-hopefully/main/main.js';
+const githubRepo = 'https://raw.githubusercontent.com/meatbroc/livery-hopefully/main/main';
 
 let liveryobj;
 let multiplayertexture;
